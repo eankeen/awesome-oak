@@ -2,20 +2,23 @@
 
 List of resources that will empower you when using Oak
 
-## Contents 
+## Contents
 
 - [General](#general)
 - [Related Tooling](##relatedtooling)
 - [Related Packages](##relatedpackages)
 
 ## General
+
 - [Official Site](https://oakserver.github.io/oak)
 - [Repository](https://github.com/oakserver/oak)
 - [FAQ](https://oakserver.github.io/oak/FAQ)
 
 ## Related Tooling
+
 - [Denon](https://github.com/denosaurs/denom) - Deno implementation of Nodemon
 - [Velociraptor](https://github.com/umbopepato/velociraptor) - like `package.json`, but only for scripts
 
 ## Related Packages
+
 - [media_types](https://deno.land/std/media_types)
